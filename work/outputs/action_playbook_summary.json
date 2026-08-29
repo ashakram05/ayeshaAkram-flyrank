@@ -1,0 +1,105 @@
+{
+  "n_rows": 200,
+  "action_counts": {
+    "refresh_and_review_ctr": 130,
+    "refresh": 35,
+    "refresh_and_review_engagement": 35
+  },
+  "confidence_counts": {
+    "high": 161,
+    "medium": 39,
+    "low": 0
+  },
+  "top_10_ranked_items": [
+    {
+      "final_rank": 1,
+      "content_id": "content_1f080331fa2b",
+      "suggested_action": "refresh_and_review_ctr",
+      "confidence": "high",
+      "final_refresh_score": 81.63669708126251,
+      "best_model_probability": 0.7820785264761718,
+      "final_reason_codes": "declining_with_demand|low_ctr_visible_page|low_engagement_visible_page|model_decline_risk|visible_model_opportunity|ctr_review_candidate|engagement_review_candidate"
+    },
+    {
+      "final_rank": 2,
+      "content_id": "content_6aa43079fb0c",
+      "suggested_action": "refresh_and_review_ctr",
+      "confidence": "high",
+      "final_refresh_score": 81.4476562486564,
+      "best_model_probability": 0.7881052836270515,
+      "final_reason_codes": "declining_with_demand|low_ctr_visible_page|model_decline_risk|visible_model_opportunity|ctr_review_candidate"
+    },
+    {
+      "final_rank": 3,
+      "content_id": "content_d6570c51c9bd",
+      "suggested_action": "refresh_and_review_ctr",
+      "confidence": "medium",
+      "final_refresh_score": 81.43034585094424,
+      "best_model_probability": 0.8473716132212432,
+      "final_reason_codes": "declining_with_demand|low_ctr_visible_page|model_decline_risk|visible_model_opportunity|ctr_review_candidate"
+    },
+    {
+      "final_rank": 4,
+      "content_id": "content_72e800a9c214",
+      "suggested_action": "refresh_and_review_ctr",
+      "confidence": "high",
+      "final_refresh_score": 81.03495994045609,
+      "best_model_probability": 0.7743713656571191,
+      "final_reason_codes": "declining_with_demand|low_ctr_visible_page|model_decline_risk|visible_model_opportunity|ctr_review_candidate"
+    },
+    {
+      "final_rank": 5,
+      "content_id": "content_e04eb9549989",
+      "suggested_action": "refresh_and_review_ctr",
+      "confidence": "medium",
+      "final_refresh_score": 80.8731883389024,
+      "best_model_probability": 0.8148048069849403,
+      "final_reason_codes": "declining_with_demand|low_ctr_visible_page|model_decline_risk|visible_model_opportunity|ctr_review_candidate"
+    },
+    {
+      "final_rank": 6,
+      "content_id": "content_b69288c5e701",
+      "suggested_action": "refresh_and_review_ctr",
+      "confidence": "high",
+      "final_refresh_score": 80.75476968012651,
+      "best_model_probability": 0.7957127277855011,
+      "final_reason_codes": "declining_with_demand|low_ctr_visible_page|model_decline_risk|visible_model_opportunity|ctr_review_candidate"
+    },
+    {
+      "final_rank": 7,
+      "content_id": "content_9b6df29f7889",
+      "suggested_action": "refresh_and_review_ctr",
+      "confidence": "high",
+      "final_refresh_score": 80.63292327424043,
+      "best_model_probability": 0.8462453203658947,
+      "final_reason_codes": "declining_with_demand|low_ctr_visible_page|model_decline_risk|visible_model_opportunity|ctr_review_candidate"
+    },
+    {
+      "final_rank": 8,
+      "content_id": "content_bb6ebb5ec8c8",
+      "suggested_action": "refresh_and_review_ctr",
+      "confidence": "high",
+      "final_refresh_score": 80.37123607538848,
+      "best_model_probability": 0.8346383672715132,
+      "final_reason_codes": "declining_with_demand|low_ctr_visible_page|model_decline_risk|visible_model_opportunity|ctr_review_candidate"
+    },
+    {
+      "final_rank": 9,
+      "content_id": "content_4d76cdb3387b",
+      "suggested_action": "refresh_and_review_ctr",
+      "confidence": "medium",
+      "final_refresh_score": 80.36274771691248,
+      "best_model_probability": 0.8430918690610489,
+      "final_reason_codes": "declining_with_demand|low_ctr_visible_page|model_decline_risk|visible_model_opportunity|ctr_review_candidate"
+    },
+    {
+      "final_rank": 10,
+      "content_id": "content_b4f35d640b1c",
+      "suggested_action": "refresh",
+      "confidence": "medium",
+      "final_refresh_score": 80.32175712439779,
+      "best_model_probability": 0.8438034050728425,
+      "final_reason_codes": "declining_with_demand|model_decline_risk|visible_model_opportunity"
+    }
+  ]
+}
